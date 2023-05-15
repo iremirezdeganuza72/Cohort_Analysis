@@ -12,11 +12,9 @@
 
 ##  Description
 
-![building_1](https://raw.githubusercontent.com/iremirezdeganuza72/Cohort_Analysis/main/pictures/building.png)
+![market](https://raw.githubusercontent.com/iremirezdeganuza72/Cohort_Analysis/main/pictures/market.png)
 
-![building_2](https://Cohort_Analysis/main/pictures/building.png)
 
-/assets/images/electrocat.png
 
 "PREDICTION MODELS & CLUSTERING - TRAVEL INDUSTRY" is a project carried out for the travel industry in which through a dataset of customers of a hotel that includes three years, and after data processing, several machine learning models are applied to find out which of them is the best predictor. Subsequently, the KMeans algorithm is used to detect the most appropriate number of cohorts for this dataset, as well as the metrics that identify it.  Python and several libraries such as pandas, matplotlib, seaborn, sklearn,... are used.
 
@@ -26,7 +24,7 @@ I used MediaPipe Hands that is a high-fidelity hand and finger tracking solution
 It employs machine learning (ML) to infer 21 3D landmarks of a hand from just a single frame.
 
 
-After downloading the dataset from Kaggle (https://www.kaggle.com/datasets/grassknoted/asl-alphabet) I extracted the 21 landmarks 
+After downloading the dataset from Kaggle       I extracted the 21 landmarks 
 of each image. I also created my own dataset to have another alternative dataset in order to be able to work and train the ML models with both datasets.
 After training different ML models; KNN, Random forest, SVC,... and after testing with the camera, the model that best predicts was Random forest.
 
@@ -39,35 +37,25 @@ After saving the model, I created the file where I load the model and implement 
 
 First of all, you have to clone the repository;
 
-```bash
-  git clone git@github.com:iremirezdeganuza72/sign_language.git
-```
+
 
 Secondly, it is necessary to install the different libraries includes in "requirements" file;
 
-```bash
-  pip install -r requirements.py
-```
 
 Afterwards, you can download the dataset from Kaggle, with 78000 images (https://www.kaggle.com/datasets/grassknoted/asl-alphabet).
 In case you want to create your own dataset, you should run "data_creation" file, executing the following command;
 
-```bash
-pip run data_creation.py
-```
 
 The next step would be to train and predict the different models and observing the metrics obtained, choosing the one that offers the best results against the prediction in front of the camera. 
 In our case the best model is Random Forest, that has to be saved. It is saved as "RF_model.pkl".
 
 Finally, to run streamlit, you must execute the following command
 
-```bash
- streamlit run streamlit_camera.py
-```
+
 
 In case it does not open browser, it should appear a local address like this one;
 
-![localhost](https://raw.githubusercontent.com/iremirezdeganuza72/sign_language/main/Imagenes/localhost.png)
+
 
 
 ## Dataset
@@ -89,5 +77,3 @@ Next objectives:
 ## Authors
 
 This project was made by Iñigo Remirez de Ganuza;
-
-- [@iremirezdeganuza72](https://github.com/iremirezdeganuza72/sign_language)
