@@ -1,4 +1,4 @@
-## PREDICTION MODELS & CLUSTERING - TRAVEL INDUSTRY   🏨
+## PREDICTION MODELS & CLUSTERING - TRAVEL INDUSTRY :hotel:
                                 
 
 ##  Index
