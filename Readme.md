@@ -4,7 +4,6 @@
 ##  Index
 
 - [Description](#Description)
-- [Graphs](#Graphs)
 - [How did I carry out the project?](#How-did-I-carry-out-the-project)
 - [Implementation of project](#Implementation-of-project)
 - [Dataset](#Dataset)
@@ -19,16 +18,11 @@
 
 "PREDICTION MODELS & CLUSTERING - TRAVEL INDUSTRY" is a project carried out for the travel industry in which through a dataset of customers of a hotel that includes three years, and after data processing, several machine learning models are applied to find out which of them is the best predictor. Subsequently, the KMeans algorithm is used to detect the most appropriate number of cohorts for this dataset, as well as the metrics that identify it.  Python and several libraries such as pandas, matplotlib, seaborn, sklearn,... are used.
 
-## Graphs
-
 ## How did I carry out the project?
 
 I used MediaPipe Hands that is a high-fidelity hand and finger tracking solution.
 It employs machine learning (ML) to infer 21 3D landmarks of a hand from just a single frame.
 
-![MediaPipe landmarks](https://raw.githubusercontent.com/iremirezdeganuza72/sign_language/main/Imagenes/hand_landmarks.png)
-
-![MediaPipe real hands](https://raw.githubusercontent.com/iremirezdeganuza72/sign_language/main/Imagenes/hand_landmarks_2.png)
 
 After downloading the dataset from Kaggle (https://www.kaggle.com/datasets/grassknoted/asl-alphabet) I extracted the 21 landmarks 
 of each image. I also created my own dataset to have another alternative dataset in order to be able to work and train the ML models with both datasets.
