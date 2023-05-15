@@ -13,11 +13,11 @@
 
 ##  Description
 
+![clusters](https://raw.githubusercontent.com/iremirezdeganuza72/Cohort_Analysis/main/clusters.jpg)
+
 "PREDICTION MODELS & CLUSTERING - TRAVEL INDUSTRY" is a project carried out for the travel industry in which through a dataset of customers of a hotel that includes three years, and after data processing, several machine learning models are applied to find out which of them is the best predictor. Subsequently, the KMeans algorithm is used to detect the most appropriate number of cohorts for this dataset, as well as the metrics that identify it.  Python and several libraries such as pandas, matplotlib, seaborn, sklearn,... are used.
 
 ## Graphs
-
-![Imagen_de_los_clusters](https://raw.githubusercontent.com/iremirezdeganuza72/Cohort_Analysis/main/Pictures/Clusters.jpg)
 
 ## How did I carry out the project?
 
