@@ -12,9 +12,9 @@
 
 ##  Description
 
-![cluster](https://raw.githubusercontent.com/iremirezdeganuza72/Cohort_Analysis/main/pictures/cluster.png)
+![building_1](https://raw.githubusercontent.com/iremirezdeganuza72/Cohort_Analysis/main/pictures/building.png)
 
-![aqui market](https://Cohort_Analysis/main/pictures/market.png)
+![building_2](https://Cohort_Analysis/main/pictures/building.png)
 
 /assets/images/electrocat.png
 
