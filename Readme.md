@@ -14,6 +14,8 @@
 
 "PREDICTION MODELS & CLUSTERING - TRAVEL INDUSTRY" is a project carried out for the travel industry in which through a dataset of customers of a hotel that includes three years, and after data processing, several machine learning models are applied to find out which of them is the best predictor. Subsequently, the KMeans algorithm is used to detect the most appropriate number of cohorts for this dataset, as well as the metrics that identify it.  Python and several libraries such as pandas, matplotlib, seaborn, sklearn,... are used.
 
+https://raw.githubusercontent.com/iremirezdeganuza72/Cohort_Analysis/main/pictures/cluster.png
+
 ## How did I carry out the project?
 
 I donwload the customer dataset from Kaggle with 31 variables describing a total of 83,590 instances (customers). It comprehends three full years of customer behavioral data. In addition to personal and behavioral information, the dataset also contains demographic and geographical information
