@@ -17,6 +17,10 @@
 ![cluster](raw.githubusercontent.com/iremirezdeganuza72/Cohort_Analysis/main/pictures/cluster.png)
 
 
+![cluster](wsl.localhost/Ubuntu-18.04/home/iremirezdeganuza/Cohort_Analysis/pictures/cluster.png)
+
+
+
 
 ## How did I carry out the project?
 
